@@ -1,35 +1,27 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Anthony Aneke's Code Institute Milestone Project 1
 
-Welcome akshaynorth,
+## Introduction
+The project milestone 1 is to employ user-centric front end development to create
+a website. The milestone gives two options:
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+1. Select a project idea from a suggested list of projects
+2. Create a website outside for a purpose outside of the suggested list of ideas
 
-## Gitpod Reminders
+I have selected to develop a website not in the selected list of ideas.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Purpose
+This website is for intellectual property law support.
 
-`python3 -m http.server`
+## Code Template Credits
+For the development of this milestone project 1 a website template was employed. 
+The template contains a set of HTML, CSS (Bootstrap4), JavaScript files that can be
+altered as needed. The code was downloaded from the following website::
 
-A blue button should appear to click: *Make Public*,
+    https://themewagon.com/
 
-Another blue button should appear to click: *Open Browser*.
+The site contains a collection of  free and paid templates. For this assignent, I
+choosed the *Legal Care* webiste template. The chosen website template can be found
+at::
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+    https://themewagon.com/themes/free-bootstrap-4-html5-responsive-law-firm-website-template-legalcare/
 
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
