@@ -24,4 +24,7 @@ choosed the *Legal Care* webiste template. The chosen website template can be fo
 at::
 
     https://themewagon.com/themes/free-bootstrap-4-html5-responsive-law-firm-website-template-legalcare/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0c89d16267ea47df33c523420ce9b17b9b0698c7
