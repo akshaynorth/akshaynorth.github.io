@@ -49,7 +49,7 @@ System Test was executing to make sure dropdown pages were rendered in accordanc
 Confirmed
 
 ## Deployment implementation
-I utilized Git hub pages service to make website available. 
+I utilized Github pages service to make website available. 
 
 ## Deployment write-up
 I copied my private repo (user_centric_frontend) into the akshaynorth.github.io public repo, resulting in making the ipattache website available through the Git hub pages
