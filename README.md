@@ -66,3 +66,16 @@ choosed the *Legal Care* webiste template. The chosen website template can be fo
 at::
 
     https://themewagon.com/themes/free-bootstrap-4-html5-responsive-law-firm-website-template-legalcare/
+
+## Reference
+
+Duckduckgo. [Online]. [Accessed 24 April 2020]. Available from: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.VXs7yc3entZz9seXUdAb6wHaE8%26pid%3DApi%26h%3D180%26p%3D0&f=1
+Duckduckgo. [Online]. [Accessed 24 April 2020]. Available from: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0Jj2AjNdlabLl1KGojReXQEsDD%26pid%3DApi&f=1
+Duckduckgo. [Online]. [Accessed 24 April 2020]. Available from: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7pMFk71bFo7VIeCvVmt8bQHaEy%26pid%3DApi&f=1
+Duckduckgo. [Online]. [Accessed 24 April 2020]. Available from: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.mAe3hKdXC-lclsHWYWPFlwHaCW%26pid%3DApi&f=1
+Duckduckgo. [Online]. [Accessed 24 April 2020]. Available from:
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.bme.jhu.edu%2Fwp-content%2Fuploads%2F2017%2F02%2FData-Science-home-slider-990x340.jpg&imgrefurl=https%3A%2F%2Fwww.bme.jhu.edu%2F&tbnid=sM3M3CmBNARglM&vet=12ahUKEwji17H8xI_pAhWDON8KHdqRB38QMygKegUIARClAg..i&docid=rHlkEhmz_s8uFM&w=990&h=340&q=biomedical%20&ved=2ahUKEwji17H8xI_pAhWDON8KHdqRB38QMygKegUIARClAg
+IPwatchdog. [Online]. [Accessed 7 May April 2020]. Available from:
+https://www.ipwatchdog.com/2013/06/29/what-is-a-patent/id=42703/
+Score. [Online]. [Accessed 7 May April 2020]. Available from:
+https://www.score.org/blog/patents-and-copyrights-everything-you-need-know
