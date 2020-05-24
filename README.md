@@ -1,22 +1,67 @@
 # Anthony Aneke's Code Institute Milestone Project 1
 
-## Introduction
-The project milestone 1 is to employ user-centric front end development to create
-a website. The milestone gives two options:
-
-1. Select a project idea from a suggested list of projects
-2. Create a website outside for a purpose outside of the suggested list of ideas
-
-I have selected to develop a website not in the selected list of ideas.
-
-## Purpose
+## Introduction and Purpose
+IP Attache is a user-centric frontend website that offers intellectual property services to clients in Life sciences, Engineering, Service industry and Electronics and computing 
+for those inoventors and innovators looking to commercialize their idea to products.
 This website is a full-service intellectual property law company with the competence in patents, litigation, and design.
 
 ## UX design
-Leveraged CSS bootstrap for mobile first user experience.
+Leveraged CSS Bootstrap for mobile first user experience. responsive site. It also contains avaScript-based design templates for forms, typography, and other interface components.
+The UX process was an iterative method which I improved upon to ensure it was user-friendly to the audience of the website. 
 
-## Suitability for purpose
-It is my believe this website contains all information in regards to companies mandate 
+## User story
+As a user type, I want to performbe able to access IP Attache to view and order their services. Their services agnostics of their services provide the required due-dillegence patent our ideas and eventually commercialize them 
+
+## Features
+The "Homepage" page descirbes: an overview of the entire website. 
+The "About Us" includes the vision and mission of the webite as well as the leadership profile.
+THe "Practice area" includes all the services of rhe website.
+The "Get in touch" page is for users tto contact IP Attache.
+The site map details the list of pages and different sectios onf the IP Attache website i.e. Business hours, contact details 
+
+## Existing Features
+IP Attache plans to scale this webite to include more features utilizing javascript to create interactive effects within web browsers.
+
+## Technologies Used
+HTML5, CSS libraries/frameworks such as Bootstrap 4 
+
+## Future technology 
+This project will use JQuaery library to simplify DOM manipulation for future projects. 
+
+## Testing implementation
+I set up a test environment (Light-weight http server) that served the webpages to be tested. I did static testing and visual inspection to make sure content was rendered as designed, I executed system testing to make sure use cases worked in accordance to design intent.  
+Essentially, I went through all user story and all functions passed.
+
+Some manual test steps that were executed 
+Go to the "About Us" page
+Try to click on the link and verify that you are navigated to the right page. This is a passed test.
+
+Go to the "Get in touch" page 
+Try to submit the form with your email address and verify you did not recieve any message. This is a passed test.
+
+Go to the "Free consultation" page 
+Try to click on it and verify that nothihg happens. This is a passed test.
+
+Please note the Get in touch and Free consultation page will be function in the interactive front-end milestone project.
+I had a few bugs from the w3c validators, extra html tags (closing htmls (they did not have a matching opening html elemnt) that were not supposed to be there - This was fixed. 
+Bugs were detected from Formatting Typos - This was fixed
+Bugs were detected from Broken images bugs and links - This was fixed
+Bugs were detected from broken hyperlinks - This was fixed
+Vimeo video from website template considered a bug - This was fixed.  
+
+## Deployment implementation
+I utilized Github pages service to make website available. 
+
+## Deployment write-up
+I copied my private repo (user_centric_frontend) into the akshaynorth.github.io public repo, resulting in making the ipattache website available through the Git hub pages
+
+## The publically available website link
+https://akshaynorth.github.io
+
+Different values for environment variables (Heroku Config Vars)?
+Different configuration files? Not Applicable
+Separate git branch? Not Applicable 
+In addition, if it is not obvious, you should also describe how to run your code locally.
 
 ##	Navigation
 It is my believe this website contains apposite navigation for users
@@ -37,9 +82,6 @@ Directory Structure and File Naming – I went through systematic approach to de
 ## Version control
 Git was used for version control. I incrementally and iteratively staged, committed, and pushed new or modified all changes during the implementation of the website
 
-## Testing implementation
-I set up a test environment (Light-weight http server) that served the webpages to be tested. I did static testing and visual inspection to make sure content was rendered as designed, I executed system testing to make sure use cases worked in accordance to design intent.  
-
 ## Testing write-up
 I tested all the links to make sure there was no broken links.
 Visual inspection was executed for typos and a proper display of html elements. 
@@ -47,12 +89,6 @@ System Test was executing to make sure dropdown pages were rendered in accordanc
 
 ## Readme file
 Confirmed
-
-## Deployment implementation
-I utilized Github pages service to make website available. 
-
-## Deployment write-up
-I copied my private repo (user_centric_frontend) into the akshaynorth.github.io public repo, resulting in making the ipattache website available through the Git hub pages
 
 ## Code Template Credits
 For the development of this milestone project 1 a website template was employed. 
@@ -79,3 +115,13 @@ IPwatchdog. [Online]. [Accessed 7 May April 2020]. Available from:
 https://www.ipwatchdog.com/2013/06/29/what-is-a-patent/id=42703/
 Score. [Online]. [Accessed 7 May April 2020]. Available from:
 https://www.score.org/blog/patents-and-copyrights-everything-you-need-know
+
+## Acknowledgements
+I received inspiration for this project from my earleir career role as a patent examiner.
+
+
+
+
+
+
+
